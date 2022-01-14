@@ -10,7 +10,8 @@
 }
 
 html, body {
-    background-color: #E5E5E5;
+    /*background-color: #E5E5E5;*/
+    background-color: black;
 }
 
 a, a:hover {

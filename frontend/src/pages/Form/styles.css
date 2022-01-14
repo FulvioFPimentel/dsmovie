@@ -2,6 +2,7 @@
     max-width: 480px;
     margin: 40px auto;
     padding: 20px;
+
 }
 
 .dsmovie-form {
@@ -28,7 +29,9 @@
 }
 
 .dsmovie-card-bottom-container {
-    background-color: #fff;
+    
+   /* background-color: #fff;*/
+    background-color: rgb(32, 32, 32);
     display: flex;
     flex-direction: column;
     align-items: center;
