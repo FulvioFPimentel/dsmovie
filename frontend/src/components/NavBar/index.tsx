@@ -11,7 +11,7 @@ const Navbar = () => {
             <a href="https://github.com/FulvioFPimentel">
               <div className="dsmovie-contact-container">
                 <GithubIcon />
-                <p className="dsmovie-contact-link">/devsuperior</p>
+                <p className="dsmovie-contact-link">/FulvioFPimentel</p>
               </div>
             </a>
           </div>

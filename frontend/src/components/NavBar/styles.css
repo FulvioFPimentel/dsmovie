@@ -1,6 +1,6 @@
 header {
     /*background-color: var(--color-primary);*/
-    background-color: #1f1e2a;
+    background-color: #271f3f;
     height: 60px;
     display: flex;
     align-items: center;
@@ -14,6 +14,7 @@ header {
 }
 
 .dsmovie-nav-content  h1 {
+    color: #695e7e;
     margin: 0;
     font-weight: 700;
     font-size: 24px;
@@ -25,6 +26,7 @@ header {
 }
 
 .dsmovie-contact-link {
+    color: #8f77b6;
     margin: 0 0 0 10px;
     font-size: 12px;
 }

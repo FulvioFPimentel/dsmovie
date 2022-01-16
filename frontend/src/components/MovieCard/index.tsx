@@ -13,6 +13,7 @@ const MovieCard = ( { movie }: Props) => {
     return (
         <div className="dsmovie-card-container">
             <img className="dsmovie-movie-card-image" src={movie.image} alt={movie.title} />
+            {console.log(movie.image)}
             <div className="dsmovie-card-bottom-container">
                 <h3>{movie.title}</h3>
                 <MovieScore count={movie.count} score={movie.score}/>
